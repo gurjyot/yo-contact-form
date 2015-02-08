@@ -1,4 +1,4 @@
-<form action="yo_cont.php" method="POST" >
+<form action="yo_contact_form_mail.php" method="POST" >
 Name: <input type="text" name="name"><br/><br/> 
 Email: <input type="email" name="email"><br/><br/> 
 Phone Number: <input type="text" name="phone_number"><br/><br/>
